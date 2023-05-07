@@ -42,7 +42,7 @@
     display: flex;}
 }
 
-@media only screen and (max-width:375px){
+@media only screen and (max-width: 375px){
   .section-3 .desktop {
     display: flex;
     flex-direction: column;
