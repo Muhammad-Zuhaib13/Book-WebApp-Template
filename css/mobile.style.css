@@ -55,7 +55,7 @@
 @media only screen and (max-width: 320px) {
 
   .section-4 .card {
-    width: 18rem!important;
+    width: 17rem!important;
   }
   .section-4 .carousel-inner{
     margin-left: -3rem;
