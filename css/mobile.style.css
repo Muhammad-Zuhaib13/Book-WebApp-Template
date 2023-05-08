@@ -50,8 +50,8 @@
 	
 .card.me-2.d-inline-block.shadow-lg {
     width: 17rem;
-    margin-left:1rem;
-   }
+    margin-left: 1rem;
+}
   .section-4 .card {
     width: 17rem !important;
     margin-right:1rem !important;
@@ -67,8 +67,8 @@
 @media only screen and (max-width: 320px) {
    .card.me-2.d-inline-block.shadow-lg {
     width: 17rem;
-   margin-left:0.3rem;
-   }
+    margin-left: 1rem;
+}
   .section-4 .card {
     width: 17rem !important;
     margin-right:1rem !important;
