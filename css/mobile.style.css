@@ -50,10 +50,10 @@
 	
 .card.me-2.d-inline-block.shadow-lg {
     width: 17rem;
- margin-left:1rem;
+    margin-left:1rem;
    }
  .section-4 .carousel-inner{
-    margin-left: -2rem;
+    margin-left: -2.1rem;
   }
   footer .row .col-md-2{
     margin-top: 8vmin;
