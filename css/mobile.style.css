@@ -52,10 +52,10 @@
     width: 17rem;
     margin-left: 1rem;
 }
-  .section-4 .card {
-    width: 17rem !important;
-    margin-right:1rem !important;
-  }
+
+.section-4 .carousel-inner {
+    margin-left: -2rem;
+}
  .section-4 .carousel-inner{
     margin-left: -3rem;
   }
@@ -69,10 +69,7 @@
     width: 17rem;
     margin-left: 1rem;
 }
-  .section-4 .card {
-    width: 17rem !important;
-    margin-right:1rem !important;
-  }
+ 
   .section-4 .carousel-inner{
     margin-left: -3rem;
   }
